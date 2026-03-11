@@ -32,7 +32,7 @@ const STATS = [
 
 const EXPERIENCE = [
   {
-    year:'2020 – Present',
+    year:'2022 – Present',
     role:'Software Developer',
     company:'IYCWorld Softinfrastructure Pvt. Ltd.',
     points:[
@@ -44,7 +44,7 @@ const EXPERIENCE = [
     ],
   },
   {
-    year:'2018 – 2020',
+    year:'2025 – 2027',
     role:'MCA Student',
     company:'Dr. A.P.J. Abdul Kalam Technical University (AKTU)',
     points:[
